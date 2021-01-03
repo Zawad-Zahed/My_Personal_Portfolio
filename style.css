@@ -1,0 +1,22 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  color: blue;
+  font-size: 40px;
+  margin-left: 3%;
+}
+.name_color {
+  color: blueviolet;
+  font-size: 50px;
+}
+.half-site {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+}
+
+.half-site img {
+  width: 100%;
+}
