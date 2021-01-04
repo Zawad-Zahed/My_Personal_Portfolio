@@ -4,10 +4,10 @@ body {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 40px;
 }
 h2 {
-  font-size: 35px;
+  font-size: 30px;
   color: tomato;
 }
 .blue_color {
@@ -67,7 +67,6 @@ section {
   border-left: 7px solid;
   border-image: linear-gradient(5deg, tomato, blue);
   border-image-slice: 1;
-  background-color: white;
 }
 #baby-web {
   border-left: 7px solid;
