@@ -17,15 +17,16 @@ h2 {
   width: 40%;
   margin-left: 5%;
   float: left;
+  padding-left: 2%;
 }
 
 .half-site img {
   width: 100%;
 }
 .shadow-bg {
-  box-shadow: 10px 10px 40px gray;
+  box-shadow: 10px 10px 50px gray;
   border-radius: 10px;
-  height: 80%;
+  height: 70%;
 }
 section {
   height: 500px;
@@ -46,7 +47,7 @@ section {
   border-radius: 10px;
   font-weight: bolder;
   color: white;
-  background-image: linear-gradient(45deg, tomato, cyan, blue);
+  background-image: linear-gradient(45deg, tomato, rgb(231, 80, 80), blue);
 }
 .link-button2 {
   text-decoration: none;
@@ -64,12 +65,13 @@ section {
 
 #web-des {
   border-left: 7px solid;
-  border-image: linear-gradient(180deg, tomato, lightsalmon, blue);
+  border-image: linear-gradient(5deg, tomato, blue);
   border-image-slice: 1;
+  background-color: white;
 }
 #baby-web {
   border-left: 7px solid;
-  border-image: linear-gradient(180deg, blue, cyan);
+  border-image: linear-gradient(180deg, tomato, blue);
   border-image-slice: 1;
 }
 footer {
